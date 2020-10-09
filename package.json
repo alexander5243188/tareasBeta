@@ -1,0 +1,26 @@
+{
+  "name": "tareasbeta",
+  "version": "1.0.0",
+  "description": "proyecto tareasBeta con MVC",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander5243188/tareasBeta.git"
+  },
+  "author": "Vega Fuentes Alexander Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander5243188/tareasBeta/issues"
+  },
+  "homepage": "https://github.com/alexander5243188/tareasBeta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

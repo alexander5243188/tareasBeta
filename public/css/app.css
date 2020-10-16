@@ -71,8 +71,11 @@ body {
 .enviar {
    justify-content: flex-end;
 }
+
 .boton {
-    background-color: #FDD835;
+    /*background-color: #FDD835;*/
+    
+    background-color: #93c7e7;
     text-align: center;
     transition: background-color .5s ease-in-out;
     padding: 2rem;
@@ -85,6 +88,7 @@ body {
     display: flex;
     align-items: center;
     line-height: 0;
+    /*color: #ffffff;*/
 }
 .boton span {
     font-size: 2.2rem;
@@ -111,7 +115,8 @@ body.index {
     height: 100vh;
 }
 .barra {
-    background-color: #455A64;
+    /*background-color: #455A64;*/
+    background-color: #363b3d;
     padding: 1rem;
     height: 60px;
     display: flex;
